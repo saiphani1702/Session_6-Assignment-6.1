@@ -1,0 +1,1 @@
+alert("I am from External file");//alert for extrenal javascript file
